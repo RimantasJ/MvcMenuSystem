@@ -12,7 +12,7 @@ using MvcMenuSystem.Data;
 namespace MvcMenuSystem.Migrations
 {
     [DbContext(typeof(MvcMenuSystemContext))]
-    [Migration("20241013223627_InitialCreate")]
+    [Migration("20241013224545_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
