@@ -30,3 +30,5 @@ app.MapControllerRoute(
     pattern: "{controller=MenuItems}/{action=Index}/{id?}");
 
 app.Run();
+
+
